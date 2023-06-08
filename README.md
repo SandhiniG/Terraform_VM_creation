@@ -1,5 +1,5 @@
 # Terraform_VM_creation
-Terraform_VM_creation
+
 GCP Virtual machine in few steps
 Deploy Virtual machine on Google Cloud Plataform (GCP) and set up initial content with nginx via terraform.
 
